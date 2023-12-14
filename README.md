@@ -2,9 +2,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod)
 
-<!-- [![terowoc's github stats](https://github-readme-stats.vercel.app/api?username=terowoc&theme=github_dark&show_icons=true)](https://github.com/asakew/) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terowoc&theme=github_dark&show_icons=true)](https://github.com/terowoc/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzoduz&theme=github_dark&show_icons=true)](https://github.com/bekhzoduz/) 
 
 
 ------------
