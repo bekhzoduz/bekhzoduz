@@ -10,13 +10,16 @@
 
 ---
 
-<!-- ABOUT ME -->
-### 🧠 About Me
-- 🚀 Building **AI voice systems**, **DevOps tools**, and **multi-tenant SaaS platforms**
-- 🧩 Passionate about **Asterisk**, **Docker**, **Laravel**, **MikroTik integrations**, and **automation**
-- 🧠 Always exploring **AI**, **networking**, and **cloud infrastructure**
-- 🧑‍💻 Most of my projects are on **private servers**
-- 🌐 Portfolio coming soon...
+<!-- PROJECTS & FOCUS -->
+<h3 align="center">🚀 Projects & Focus Areas</h3>
+
+<p align="center">
+🌐 <b>OnlinePBX</b> – IP telephony & Asterisk management system  
+⚙️ <b>WiFiNet</b> – MikroTik captive portal with OTP login and analytics  
+🤖 <b>AI Voice Assistant</b> – Offline Uzbek ASR + LLM + TTS platform  
+🛰️ <b>DevOps Platform</b> – Containerized CI/CD + monitoring dashboards  
+🧾 <b>QZ Tray Check System</b> – Full local receipt & tax printer integration  
+</p>
 
 ---
 
@@ -46,7 +49,7 @@
 <h3 align="center">🧰 Languages & Tools</h3>
 
 <p align="center">
-  <!-- Dev/Cloud -->
+  <!-- DevOps / Cloud -->
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,gcp,azure,cloudflare,git,github,gitlab,jenkins" />
   <br/>
   <!-- Backend -->
@@ -67,7 +70,7 @@
 <!-- ACTIVITY GRAPH -->
 <h3 align="center">🔥 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekhzoduz&theme=tokyo-night&hide_border=true" alt="Bekzod's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekhzoduz&theme=tokyo-night&hide_border=true" alt="Bekhzod's Activity Graph" />
 </p>
 
 ---
@@ -83,4 +86,4 @@
 
 ---
 
-<h4 align="center">⭐️ From <a href="https://github.com/bekhzoduz">Bekhzod</a> with passion for code</h4>
+<h4 align="center">⭐️ From <a href="https://github.com/bekhzoduz">Bekzod</a> — building the future of AI-powered DevOps</h4>
