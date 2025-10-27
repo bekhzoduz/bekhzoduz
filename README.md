@@ -10,16 +10,6 @@
 
 ---
 
-<!-- PROJECTS & FOCUS -->
-<h3 align="center">🚀 Projects & Focus Areas</h3>
-
-<p align="center">
-🌐 <b>OnlinePBX</b> – IP telephony & Asterisk management system  
-⚙️ <b>WiFiNet</b> – MikroTik captive portal with OTP login and analytics  
-🤖 <b>AI Voice Assistant</b> – Offline Uzbek ASR + LLM + TTS platform  
-🛰️ <b>DevOps Platform</b> – Containerized CI/CD + monitoring dashboards  
-🧾 <b>QZ Tray Check System</b> – Full local receipt & tax printer integration  
-</p>
 
 ---
 
